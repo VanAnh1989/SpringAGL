@@ -20,7 +20,7 @@ public class Account {
 	public String getPassWord2() {
 		return passWord2;
 	}
-	//nguyen van anh
+	//dao van uy
 	public void setPassWord2(String passWord2) {
 		this.passWord2 = passWord2;
 	}
